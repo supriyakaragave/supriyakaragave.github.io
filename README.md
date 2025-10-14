@@ -15,17 +15,24 @@ I'm an integration lead with **16+ years** of experience designing and deliverin
 
 ---
 
-## 🛠 Skills
+## 🛠 Skills & Tools
 
-**Integration & Development:**  
-Apache Camel | Java | Spring Boot | Red Hat Fuse 7.10 | OpenShift 4.x | REST API | Kafka | JMS | WMQ | JDBC | C# .NET | BizTalk | 3scale API | Azure | K2 BlackPearl | MS SQL | Oracle  
+**Languages & Frameworks:**  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
+![Apache Camel](https://img.shields.io/badge/Apache_Camel-8DC63F?style=for-the-badge&logo=apache&logoColor=white) 
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+
+**Integration & Messaging:**  
+![Red Hat Fuse](https://img.shields.io/badge/Red_Hat_Fuse-E2231A?style=for-the-badge) 
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) 
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge)  
 
 **Tools & Platforms:**  
-IntelliJ | VS Code | Visual Studio | Git | Bitbucket | Maven | Jenkins | TeamCity | Artifactory | Jira | Confluence | UCD | TFS  
-
-**Certifications:**  
-- MCSD 483 — Programming in C#  
-- MCTS 70-595 — Developing Business Process & Integration Solutions (BizTalk Server 2010)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) 
+![OpenShift](https://img.shields.io/badge/OpenShift-DD0000?style=for-the-badge&logo=openshift&logoColor=white) 
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
 
 ---
 
@@ -51,25 +58,27 @@ IntelliJ | VS Code | Visual Studio | Git | Bitbucket | Maven | Jenkins | TeamCit
 
 ## 🏗 Selected Projects
 
-- **Enterprise Integration Framework** — Reusable Apache Camel & Fuse framework with monitoring, error handling, and schema validation  
-- **Microservice Billing & Partner Onboarding** — Spring Boot microservices integrated with Kafka and 3scale APIs  
-- **BizTalk ERP Integrations** — Complex integrations for MS Dynamics AX ERP, with pipelines, maps, and post-release support  
-- **REST API Services (MVC)** — REST services for interfacing multiple systems, including logging, authentication, and stability improvements  
+- **Enterprise Integration Framework** — Apache Camel & Fuse framework with monitoring, error handling, and schema validation  
+- **Microservice Billing & Partner Onboarding** — Spring Boot microservices with Kafka & 3scale APIs  
+- **BizTalk ERP Integrations** — Complex integrations for MS Dynamics AX ERP  
+- **REST API Services (MVC)** — REST services for interfacing multiple systems  
 
 ---
 
-## 📫 Connect with Me
+## 📈 GitHub Stats & Activity
+
+![Supriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=react)
+
+---
+
+## 🌟 Contact & Connect
 
 - Email: [Supriya.karagave@hotmail.com](mailto:Supriya.karagave@hotmail.com)  
 - LinkedIn: [linkedin.com/in/supriyakaragave](https://www.linkedin.com/in/supriyakaragave/)  
-- Phone: +91 8805883418  
+- Phone: +91 9403849488  
 
 ---
 
-## 📄 Resume
 
-Download my PDF resume: [SupriyaKaragave_Resume.pdf](./SupriyaKaragave_Resume.pdf)
-
----
-
-*Made with ❤️ by Supriya Karagave*
+*Made with ❤️ by Supriya Karagave*  
