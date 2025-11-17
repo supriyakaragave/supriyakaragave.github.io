@@ -74,7 +74,7 @@ I'm an integration lead with **16+ years** of experience designing and deliverin
 
 ## 🌟 Contact & Connect
 
-- Email: [Supriya.karagave@hotmail.com](mailto:Supriya.karagave@hotmail.com)  
+- Email: [supriya.karagave@outlook.in](mailto:supriya.karagave@outlook.in)  
 - LinkedIn: [linkedin.com/in/supriyakaragave](https://www.linkedin.com/in/supriyakaragave/)  
 - Phone: +91 9403849488  
 
