@@ -37,6 +37,12 @@ I'm an integration lead with **16+ years** of experience designing and deliverin
 ![OpenShift](https://img.shields.io/badge/OpenShift-DD0000?style=for-the-badge&logo=openshift&logoColor=white) 
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
 
+**Able to work with :**
+
+![K2 Blackpearl](https://img.shields.io/badge/K2%20Blackpearl-000000?style=for-the-badge)
+![Pega PRPC](https://img.shields.io/badge/Pega%20PRPC-0D6FB8?style=for-the-badge)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge)
+
 ---
 
 ## 💼 Experience Highlights
