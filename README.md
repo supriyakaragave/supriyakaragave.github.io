@@ -26,7 +26,10 @@ I'm an integration lead with **16+ years** of experience designing and deliverin
 **Integration & Messaging:**  
 ![Red Hat Fuse](https://img.shields.io/badge/Red_Hat_Fuse-E2231A?style=for-the-badge) 
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) 
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge)  
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge)
+![Tibco EMS](https://img.shields.io/badge/Tibco%20EMS-0377A8?style=for-the-badge)
+![IBM MQ](https://img.shields.io/badge/IBM%20MQ-052FAD?style=for-the-badge)
+![BizTalk](https://img.shields.io/badge/BizTalk-BA141A?style=for-the-badge)
 
 **Tools & Platforms:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
