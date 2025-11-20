@@ -73,11 +73,11 @@ I'm an integration lead with **16+ years** of experience designing and deliverin
 - **REST API Services (MVC)** — REST services for interfacing multiple systems  
 
 ---
-
+<!--  Commented until there is better stats 
 ## 📈 GitHub Stats & Activity
 
-![Supriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=react)
+![Supriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=supriyakaragave&show_icons=true&theme=react)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=supriyakaragave&layout=compact&theme=react)
 
 ---
 
@@ -89,5 +89,8 @@ I'm an integration lead with **16+ years** of experience designing and deliverin
 
 ---
 
+## 🌟 Visitor Counter
+![Visitors](https://komarev.com/ghpvc/?username=supriyakaragave&style=for-the-badge)
 
+-->
 *Made with ❤️ by Supriya Karagave*  
